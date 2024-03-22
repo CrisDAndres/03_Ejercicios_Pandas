@@ -2,7 +2,7 @@
 
 Este repositorio contiene una serie de ejercicios prácticos resueltos, para aprender y practicar el uso de Pandas.
 
-![Logo de Pandas]([https://geo-python-site.readthedocs.io/en/stable/_images/pandas_logo.png](https://image.pngaaa.com/296/1947296-middle.png)
+![Logo de Pandas](https://geo-python-site.readthedocs.io/en/stable/_images/pandas_logo.png](https://image.pngaaa.com/296/1947296-middle.png)
 
 *Fuente de la imagen: https://www.pngaaa.com*
 
