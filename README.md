@@ -2,7 +2,9 @@
 
 Este repositorio contiene una serie de ejercicios prácticos resueltos, para aprender y practicar el uso de Pandas.
 
-![Logo de Pandas](https://geo-python-site.readthedocs.io/en/stable/_images/pandas_logo.png)
+![Logo de Pandas]([https://geo-python-site.readthedocs.io/en/stable/_images/pandas_logo.png](https://image.pngaaa.com/296/1947296-middle.png)
+
+*Fuente de la imagen: https://www.pngaaa.com*
 
 Pandas es una librería de Python especializada en el manejo y análisis de estructuras de datos. Está diseñada específicamente para facilitar la manipulación y el análisis de datos en Python. Pandas opera sobre **Series** y **DataFrames**, que son estructuras de datos unidimensionales y bidimensionales (tablas). Estas estructuras se construyen a partir de arrays de la librería NumPy, añadiendo nuevas funcionalidades.
 
